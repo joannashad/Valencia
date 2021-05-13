@@ -1,0 +1,19 @@
+- Prompt the user for the year, model, make, and initial speed of car #1.
+
+- Create a Car object #1 using the default constructor. Then use the setters to initialize it's values.
+
+- Prompt the user for the year, model, make, and initial speed of car #2.
+- Create a Car object #2 using the non-default constructor.
+
+- Display the information for each car.
+
+- Display an announcement that a race is about to begin between the 2 cars. Use your creativity regarding all messages displayed.
+
+- Create a loop that will simulate racing around a track 5 times.
+
+     Within the loop, call the accelerate for each of the car objects, and after each call, use the accessor method to display the current speed of the car
+
+     Within the loop, call the brake for each of the car objects, and after each call, use the accessor method to display the current speed of the car
+     Within the loop, compare the speed for each car, and store the fastest speed for each car (hint: use 2 local variables in the driver to hold the fastest speed of each car. Compare current speed to fastest speed, at each loop iteration)
+
+- At the end of the loop, display the fastest speed that each car reached. Make a conclusion about which car achieved the fastest speed, and report on it.

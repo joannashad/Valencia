@@ -1,0 +1,50 @@
+
+Vehicle #2:2020- Harley - Gold Wing checkpoint:0 @ 6
+Veh
+Vehicle #2:2020- Harley - Gold Wing checkpoint:65
+Vehicle
+Vehicle #2:2020- Harley - Gold Wing checkpoint
+Vehicle #1:
+Vehicle #2:2020- Harley - Gold Wing checkpoint:181 @ 62mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:243 @ 62mph
+Vehicle #2:2020- Harley - Gold Win
+Vehicle #1:2020- Ford - Mustang checkpoint:315 @ 49mph
+Vehicle #1:2020- Ford - Mus
+Vehicle #2:2020- Harley - Gold Wing checkpoint:423 @ 54mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:477 @ 48mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:525 @ 51mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:576 @ 46mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:622 @ 50mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:672 @ 49mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:721 @ 49mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:770 @ 51mph
+Vehicle #2:2020- Harley - Gold Wing checkpoint:821 @ 52mph
+Vehicle #2:2020- Harley - Gold Wing checkpoin
+Vehicle #1:2
+Vehicle #2:2020- Harley - Gold Wing check
+Vehicle #1:2020- Ford - Mustang checkpoint:1003 @ 47mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1050 @ 47mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1097 @ 48mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1145 @ 53mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1198 @ 46mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1244 @ 51mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1295 @ 52mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1347 @ 55mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1402 @ 49mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1451 @ 46mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1497 @ 51mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1548 @ 47mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1595 @ 54mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1649 @ 50mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1699 @ 52mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1751 @ 46mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1797 @ 47mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1844 @ 50mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1894 @ 48mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1942 @ 49mph
+Vehicle #1:2020- Ford - Mustang checkpoint:1991 @ 50mph
+Vehicle #1:2020- Ford - Mustang Finished!
+Vehicle #1:2020- Ford - Mustang Time:23
+Vehicle #1:2020- Ford - Mustang is the WINNER!ld Wing Finished!
+Vehicle #2:2020- Harley - Gold Wing Time:21
+Vehicle #2:2020- Harley - Gold Wing is the WINNER!
